@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> Matthew's Project </title>
+  <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>First lesson</h1>
+    <div class="section"><h1>HTML</h1></div>
+        HTML is the heart of the web.  It is made up of text content, <br>references to other documents
+        including images and video and links to other pages.
+      <div class="sub"><h2>What is the language of HTML</h2></div>
+    <p class="red">The language is made up from tags or contents</p>
+    <p>The first tag is the <b>b</b> tag. It will start and finish with b.
+<p> Example: HTML is <b>reasonably straightforward</b>
+<h3>Italics</h3>
+<p>Italics uses the em tag.  EM stands for Empahsis
+<p><em>Example: HTML is <b>reasonably straightforward</b></em>
+<div class="Attributes"></div>
+  <h2>Attributes</h2>
+This website is <a href="www.udacity.com">my favorite</a>
+<br>(a href) tag is used for attributes
+
+<h1>Images</h1>
+(img) - Images
+hello!
+<img src="https://vignette.wikia.nocookie.net/forzamotorsport4/images/5/5c/Lamborghini_logo.png/revision/latest/scale-to-width-down/210?cb=20111208172026" alt="Lamborghini_logo">
+<br>and here is some more text
+     <div class=""></div>
+       <p class="red">Google is a good source for help. Also look at the website for W3Schools.</p>
+       Also check out MDN (Mozilla Developer Network)
+         <p> Always use documentation
+
+<h1>Whitespace</h1>
+<p class="green">You can use the br tag to break one line into multiple lines.</p>Br doesn't need a closing tag
+Hello everyone!<br>We're using two lines now!
+
+<br>Paragraph tag uses the "P" tag and must follow with "content".  Paragraphs must be closed with "/p"
+<p>Hello everyone!</p>
+<p>We're using two lines now!</p>
+
+<h1>Inline/Block</h1>
+br tag = Inline <br>(b) (em) (img) are all inline tags<br> P tag = block
+<h1>Span and Div</h1>
+<span>this is one line</span>
+yep, one line
+<div>this is one line</div>
+yep, one line
+<strong>this is one line</strong>
+yep one line
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+</body>
+</html>
